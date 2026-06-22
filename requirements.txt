@@ -1,0 +1,4 @@
+anndata
+ipykernel
+matplotlib
+scanpy[leiden]
