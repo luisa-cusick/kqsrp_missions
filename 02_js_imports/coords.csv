@@ -1,0 +1,11 @@
+﻿x,y,celltype
+2,5,Macrophage
+2,4,Macrophage
+2,4.5,Macrophage
+1.5,5,Macrophage
+1.75,4.75,Macrophage
+5,2,T cell
+5,1.75,T cell
+5.25,2.25,T cell
+5,2.5,T cell
+6,2,T cell
